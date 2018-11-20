@@ -1,0 +1,2 @@
+
+CREATE TABLE Entries(ID SERIAL PRIMARY KEY, Date date, Entry VARCHAR(1000));
